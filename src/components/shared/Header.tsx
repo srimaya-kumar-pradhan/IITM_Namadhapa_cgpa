@@ -62,7 +62,7 @@ export default function Header() {
             <nav className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
                 {/* Logo Area */}
                 <Link href="/" className="flex items-center gap-3 group">
-                    <div className="relative w-12 h-12 group-hover:scale-110 transition-transform">
+                    <div className="relative w-12 h-12 group-hover:scale-110 transition-transform" style={{ width: '3rem', height: '3rem', position: 'relative' }}>
                         <Image
                             src="/house-logo.png"
                             alt="Namdapha House Logo"

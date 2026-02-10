@@ -24,7 +24,7 @@ export default function Footer() {
                     {/* Brand Column */}
                     <div className="md:col-span-2 space-y-8">
                         <Link href="/" className="flex items-center gap-4 group">
-                            <div className="relative w-14 h-14 group-hover:scale-110 transition-transform">
+                            <div className="relative w-14 h-14 group-hover:scale-110 transition-transform" style={{ width: '3.5rem', height: '3.5rem', position: 'relative' }}>
                                 <Image
                                     src="/house-logo.png"
                                     alt="Namdapha House Logo"
