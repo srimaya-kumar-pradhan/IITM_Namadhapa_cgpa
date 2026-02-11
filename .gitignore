@@ -54,3 +54,6 @@ next-env.d.ts
 
 # Local build reports
 lint_report.txt
+
+.vercel
+.env*.local

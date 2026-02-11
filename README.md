@@ -81,7 +81,7 @@ Calculations adhere strictly to the official IIT Madras BS Degree grading guidel
 
 ## 📦 Deployment
 The project is optimized for static deployment on **Vercel**.
-*   **Live Demo**: [View Deployment](https://iitm-namadhapa-cgpa-c88nxk5vy-25f2008279-7142s-projects.vercel.app)
+*   **Live Demo**: [View Deployment](https://iitm-namadhapa-cgpa.vercel.app)
 *   **CI/CD**: Automatic builds triggered via GitHub Actions on push to `main`.
 
 ## ⚠️ Disclaimer
